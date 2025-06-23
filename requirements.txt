@@ -1,0 +1,7 @@
+git+https://github.com/drift-labs/driftpy.git
+solders
+solana
+asyncio
+
+streamlit       # If you want to build web dashboards
+web3            # If Derive runs on EVM (to be confirmed)
